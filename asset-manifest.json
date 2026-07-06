@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio1/static/css/main.e6628e32.css",
+    "main.js": "/Portfolio1/static/js/main.13dcc2fd.js",
+    "static/js/453.ad7768ec.chunk.js": "/Portfolio1/static/js/453.ad7768ec.chunk.js",
+    "static/media/Altamash.jpg": "/Portfolio1/static/media/Altamash.91f1fe8556d0f2a46815.jpg",
+    "index.html": "/Portfolio1/index.html",
+    "main.e6628e32.css.map": "/Portfolio1/static/css/main.e6628e32.css.map",
+    "main.13dcc2fd.js.map": "/Portfolio1/static/js/main.13dcc2fd.js.map",
+    "453.ad7768ec.chunk.js.map": "/Portfolio1/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6628e32.css",
+    "static/js/main.13dcc2fd.js"
+  ]
+}
