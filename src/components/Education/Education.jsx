@@ -3,7 +3,7 @@ const Education = () => {
     {
       title: "Bachelor of Vocation (B.Voc) - Software Development (Graduation)",
       college: "Kamla Nehru Mahavidyalaya, Nagpur",
-      duration: "2023 – 2026"
+      duration: "2023 – 2026 (Completed) "
     },
     {
       title: "Higher Secondary Education (12th Grade)",
