@@ -68,7 +68,7 @@ const About = () => {
       </div>
       <div className="mt-6 flex gap-3">
   <a
-    href="/PortFolio/resume.pdf"
+    href="/Portfolio1/resume.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="bg-emerald-600 text-white px-5 py-2 rounded-lg hover:bg-emerald-800"
@@ -77,7 +77,7 @@ const About = () => {
   </a>
 
   <a
-    href="/PortFolio/resume.pdf"
+    href="/Portfolio1/resume.pdf"
     download
     className="bg-gray-800 hover:bg-gray-600 text-white px-5 py-2 rounded-lg"
   >

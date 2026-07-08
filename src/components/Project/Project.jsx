@@ -49,7 +49,7 @@ const Project = () => {
   ];
 
   return (
-    <section id="projects" className="bg-[#f9fafb] py-10 px-6 pt-18 pb-16 border border-gray-700 shadow-sm hover:shadow-md transition">
+    <section id="projects" className="bg-[#f9fafb] py-10 px-6 pt-20 pb-16 border border-gray-700 shadow-sm hover:shadow-md transition">
       <div className="max-w-6xl mx-auto">
 
         {/* HEADING */}
