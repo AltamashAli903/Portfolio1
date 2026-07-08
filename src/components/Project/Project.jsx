@@ -37,7 +37,7 @@ const Project = () => {
       description:
         "A mobile app for generating invoices, managing clients, and tracking payments on the go.",
       tech: ["Flutter", "Node.js", "Express", "MySQL", "Firebase"],
-      // playStore: "https://play.google.com/store/apps/details?id=com.skyvision.invoice",
+      playStore: "https://play.google.com/store/apps/details?id=com.skyvision.invoiceapp",
     },
     {
       title: "Daily Collection Mobile Application",
