@@ -90,7 +90,7 @@ const Contact = () => {
                 LinkedIn
               </a>
               <a
-                href=" https://altamashali903.github.io/PortFolio/"
+                href=" https://altamashali903.github.io/Portfolio1/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-emerald-600 font-medium"
