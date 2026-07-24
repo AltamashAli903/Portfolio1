@@ -140,9 +140,9 @@ const Header = () => {
               <a
                 href={item.href}
                 onClick={() => setActive(item.id)}
-                className={`group relative pb-2 font-medium transition-colors duration-300 ${
+                className={`group relative pb font-medium transition-colors duration-300 ${
                   active === item.id
-                    ? "text-black"
+                    ? "text-black" 
                     : "text-gray-600 hover:text-black"
                 }`}
               >

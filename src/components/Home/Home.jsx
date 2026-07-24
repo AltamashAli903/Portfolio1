@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <>
 
-      <section id="home" className="min-h-screen flex items-center py-1 justify-center bg-[#f9fafb] px-6 relative overflow-hidden">
+      <section id="home" className="scroll-mt-24 py-8 flex items-center justify-center bg-[#f9fafb] px-6 relative overflow-hidden">
 
         {/* subtle background glow */}
         <div className="absolute top-[-100px] left-[-100px] w-[300px] h-[400px] bg-emerald-200 rounded-full blur-3xl opacity-30"></div>
